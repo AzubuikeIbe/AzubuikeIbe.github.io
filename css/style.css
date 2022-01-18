@@ -834,6 +834,8 @@ select:focus {
 }
 
 #counter {
+	position: absolute;
+	top: 6%;
     	width: 100%;
 	color: #fff;
 	font-family: 'Muli', sans-serif;
@@ -843,7 +845,6 @@ select:focus {
 	justify-content: center;
 	margin: 0;
 	padding: 10px;
-	float: right;
 }
 
 
