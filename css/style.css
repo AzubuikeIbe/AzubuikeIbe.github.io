@@ -216,7 +216,7 @@ img {vertical-align: middle;}
 
 .btn:hover {
     background: #ff0037;
-    letter-spacing: 10px;
+    opacity: 0.8;
 }
 .header {
     background: #010e3c;
